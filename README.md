@@ -1,4 +1,4 @@
-Deploy Link - (https://my-portfolio-qcwo.vercel.app/)
+Portfolio Link - (https://my-portfolio-qcwo.vercel.app/)
 
 # My React App
 
